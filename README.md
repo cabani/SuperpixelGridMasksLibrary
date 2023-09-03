@@ -2,7 +2,7 @@
 This Python library focuses on data augmentation techniques based on superpixels. It is highly beneficial for machine learning, particularly in scenarios involving limited image datasets.
 
 # Install
-The current version of SuperpixelGridMasks Library can be installed with PyPI.
+The current version of SuperpixelGridMasks Library can be installed with PyPI **(will be available soon)**.
 ```sh
 $ pip install SuperpixelGridMasks
 ```
